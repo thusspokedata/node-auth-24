@@ -1,4 +1,4 @@
-
+curso de Fernando Herrera https://cursos.devtalles.com/courses/take/node-clean-architecture/lessons/48597780-rutas-y-controladores-de-express
 npm i express
 
 npm i dotenv env-var
